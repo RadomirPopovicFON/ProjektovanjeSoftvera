@@ -2,8 +2,8 @@
 Klijent-soket bazirana aplikacija za predmet Projektovanje Softvera [Java]
 Ideja je bila da se napravi aplikacija koja simulira studentski elektronski servis.
 
-<h2>Pokretanje:<h2/>
-<hr/>
+<h2>Pokretanje:
+<br/>
 1) Pokrenuti sql upit nad fajlom BazaProjektovanjeSoftvera.sql(importovanje)<br/>
 2) Podesiti properties fajl, tj.parametre u njemu za pristup bazi : ProjekatPSServer/podesavanja.properties<br/>
 3) Pokretanje servera : ProjekatPSServer/gui/ServerForma<br/>
