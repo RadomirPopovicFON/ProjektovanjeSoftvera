@@ -1,11 +1,11 @@
-# ProjektovanjeSoftvera
-Klijent-soket bazirana aplikacija za predmet Projektovanje Softvera [Java]
-Ideja je bila da se napravi aplikacija koja simulira studentski elektronski servis.
+# Software design
+Client-socket based project application for exam at Faculty of Organization Sciences [Java]
+Task: Make an app which will simulate student e-service.
 
-## Pokretanje:
+## How to run the app 
 <br/>
-1) Pokrenuti sql upit nad fajlom BazaProjektovanjeSoftvera.sql(importovanje)<br/>
-2) Podesiti properties fajl, tj.parametre u njemu za pristup bazi : ProjekatPSServer/podesavanja.properties<br/>
-3) Pokretanje servera : ProjekatPSServer/gui/ServerForma<br/>
-4a) Pokretanje klijenta : ProjekatPSKlijent/forme/FormaZaLogovanjeStudent(student)<br/>
-4b) Pokretanje klijenta : ProjekatPSKlijent/forme.nl/FormaZaLogovanjeNL(nadlezno lice, tj.studentska sluzba)
+1) Run sql query on BazaProjektovanjeSoftvera.sql(importing the database)<br/>
+2) Modify properties file, to be precise, change database parameters: ProjekatPSServer/podesavanja.properties<br/>
+3) Run server : ProjekatPSServer/gui/ServerForma<br/>
+4a) Run client - as Student: ProjekatPSKlijent/forme/FormaZaLogovanjeStudent<br/>
+4b) Run client - as working staff : ProjekatPSKlijent/forme.nl/FormaZaLogovanjeNL
