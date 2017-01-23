@@ -1,5 +1,5 @@
 # Software design
-Client-socket based project application for exam at Faculty of Organization Sciences [Java]
+Client-socket based project application for exam at Faculty of Organization Sciences [Java]<br/>
 Task: Make an app which will simulate student e-service.
 
 ## How to run the app 
